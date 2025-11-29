@@ -1,8 +1,7 @@
 # fryfly-prototipo
 
 ## 📌 Descripción
-Este proyecto forma parte de mi portafolio personal.  
-El objetivo es demostrar buenas prácticas de programación, organización y documentación en GitHub.
+Este repositorio contiene un prototipo inicial que no continuaré desarrollando por ahora. Es probable que en el futuro cree un nuevo proyecto en Django basado en las mismas ideas y el diseño.
 
 ## 📜 Licencia
 Este proyecto está bajo la licencia **MIT**.  
